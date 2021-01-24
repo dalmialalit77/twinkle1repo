@@ -1,0 +1,3 @@
+This is my first file in Git at the moment. 
+WE can do it for automation.
+
